@@ -1,0 +1,4 @@
+#Sun May 20 20:05:21 CST 2018
+base.0=F\:\\AndroidPros\\AS_AndroidDevelop\\AS_Notification_Learn\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

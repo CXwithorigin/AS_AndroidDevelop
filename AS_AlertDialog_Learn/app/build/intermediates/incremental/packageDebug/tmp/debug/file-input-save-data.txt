@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 21 11:19:11 CST 2018
+0.baseType=DIRECTORY
+0.base=F\:\\AndroidPros\\AS_AndroidDevelop\\AS_AlertDialog_Learn\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
